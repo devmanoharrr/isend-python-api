@@ -18,3 +18,5 @@ client = ISend("your_api_key")
 client.send_email("WelcomeTemplate", "user@example.com", {"name": "John"})
 client.send_event("Signup", "user@example.com", {"plan": "Free"})
 ```
+
+<!-- Security scan triggered at 2025-09-02 04:51:24 -->
