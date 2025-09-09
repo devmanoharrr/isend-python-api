@@ -20,3 +20,5 @@ client.send_event("Signup", "user@example.com", {"plan": "Free"})
 ```
 
 <!-- Security scan triggered at 2025-09-02 04:51:24 -->
+
+<!-- Security scan triggered at 2025-09-09 05:42:41 -->
